@@ -6,7 +6,6 @@
 ### Author: Brent Woodward
 
 ### Links and Resources
-[![Build Status](https://www.travis-ci.com/BrentTech/27-starter-code.svg?branch=master)](https://www.travis-ci.com/BrentTech/27-starter-code)
 * [Code Sandbox Challenge 1 pt. 1](https://codesandbox.io/s/0p0l613wyn)
 * [Code Sandbox Challenge 1 pt. 2](https://codesandbox.io/s/k0ozx4w717)
 * [Code Sandbox Challenge 2 pt. 1](https://codesandbox.io/s/pjkj39jx8j)
@@ -17,17 +16,30 @@
 
 ### Modules - Challenge 1
 #### `app.js`
-React application
-#### `header.js`
-Exports header react component to app.js
-#### `footer.js`
-Exports footer react component to app.js
-#### `counter.js`
-Renders counter functionality for react app
+Brings in React Fragment for Message and writes to DOM.
+#### `message.js`
+Renders a div with the message text.
+
+### Modules - Challenge 2
 #### `index.js`
-Renders index.html
+Writes App to DOM
+#### `app.js`
+Brings in React Fragment for Display.
+#### `display.js`
+Renders a div with the message text.
+#### `dview.js`
+Renders form with input and spans
+
+### Modules - Challenge 3
+#### `index.js`
+Writes App to DOM
+#### `app.js`
+Brings in React Fragment for Display.
+#### `display.js`
+Contains functionality of handlers for change, submit, and 
+#### `dview.js`
+Renders form with input and spans
 
 
-#### UML
-##### Challenge 1
-[Build Status](https://www.travis-ci.com/BrentTech/27-starter-code.svg?branch=master)](https://www.travis-ci.com/BrentTech/27-starter-code)
+##### UML
+* [Code Sandbox Challenge 1 pt. 1](https://codesandbox.io/s/0p0l613wyn)
