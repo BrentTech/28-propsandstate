@@ -7,12 +7,12 @@
 
 ### Links and Resources
 [![Build Status](https://www.travis-ci.com/BrentTech/27-starter-code.svg?branch=master)](https://www.travis-ci.com/BrentTech/27-starter-code)
-* [Code Sandbox Challenge 1 pt. 1](https://0p0l613wyn.codesandbox.io/)
-* [Code Sandbox Challenge 1 pt. 2](https://k0ozx4w717.codesandbox.io/)
-* [Code Sandbox Challenge 2 pt. 1](https://pjkj39jx8j.codesandbox.io/)
-* [Code Sandbox Challenge 2 pt. 2](https://230yyy50xp.codesandbox.io/)
-* [Code Sandbox Challenge 3 pt. 1](https://mqox83j1o8.codesandbox.io/)
-* [Code Sandbox Challenge 3 pt. 2](https://4qzjrqjyq4.codesandbox.io/)
+* [Code Sandbox Challenge 1 pt. 1](https://codesandbox.io/s/0p0l613wyn)
+* [Code Sandbox Challenge 1 pt. 2](https://codesandbox.io/s/k0ozx4w717)
+* [Code Sandbox Challenge 2 pt. 1](https://codesandbox.io/s/pjkj39jx8j)
+* [Code Sandbox Challenge 2 pt. 2](https://codesandbox.io/s/230yyy50xp)
+* [Code Sandbox Challenge 3 pt. 1](https://codesandbox.io/s/mqox83j1o8)
+* [Code Sandbox Challenge 3 pt. 2](https://codesandbox.io/s/4qzjrqjyq4)
 
 
 ### Modules - Challenge 1
