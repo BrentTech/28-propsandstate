@@ -42,4 +42,4 @@ Renders form with input and spans
 
 
 ##### UML
-![UML for all challenges](./assets/lab 28.jpg)
+![UML for all challenges](./assets/lab28.jpg)
